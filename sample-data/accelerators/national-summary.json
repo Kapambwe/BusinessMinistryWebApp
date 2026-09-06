@@ -1,0 +1,22 @@
+{
+  "totalSmeRevenue": 1420500.0,
+  "totalJobsCreated": 1845,
+  "importSubstitutionValueUSD": 480000.0,
+  "exportEarningsGeneratedUSD": 295000.0,
+  "totalTaxesContributed": 185200.0,
+  "averageProductivityIncreaseRatio": 34.5,
+  "sectorBreakdowns": [
+    {
+      "sectorName": "Agro-processing",
+      "growthRate": 18.2
+    },
+    {
+      "sectorName": "Textiles & Uniforms",
+      "growthRate": 12.4
+    },
+    {
+      "sectorName": "Rural Transport & Logistics",
+      "growthRate": 15.6
+    }
+  ]
+}

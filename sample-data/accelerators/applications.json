@@ -1,0 +1,59 @@
+[
+  {
+    "id": "f1e2d3c4-5b6a-7f8e-9d0c-1b2a3f4e5d6c",
+    "startupName": "Mwamba Poultry Solutions",
+    "legalForm": "Private Limited",
+    "registrationNumber": "L-304829-ZM",
+    "founderId": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+    "pitchDeckUrl": "https://data.gov.zm/storage/pitchdecks/mwamba-poultry.pdf",
+    "pitchVideoUrl": "https://youtube.com/watch?v=mwamba-poultry-zambia",
+    "projectedFirstYearRevenue": 45000.0,
+    "businessModelCanvasJson": "{\"valueProposition\":\"Affordable high-yield poultry cages and feed matching for smallholder farmers.\",\"keyPartners\":\"Agro-dealers, Ministry of Agriculture\",\"customerSegments\":\"Rural and peri-urban smallholder chicken farmers\"}",
+    "sdgAlignments": [
+      "SDG 2 - Zero Hunger",
+      "SDG 8 - Decent Work",
+      "SDG 12 - Responsible Consumption"
+    ],
+    "status": 3,
+    "aiScoringRecommendation": 87.5,
+    "submittedAt": "2026-03-12T14:32:00Z"
+  },
+  {
+    "id": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "startupName": "Kasama Garment Cooperatives",
+    "legalForm": "Cooperative",
+    "registrationNumber": "COOP-2026-981",
+    "founderId": "8c2deb4d-4b7d-5bad-9bdd-3b0d7b3dcb6d",
+    "pitchDeckUrl": "https://data.gov.zm/storage/pitchdecks/kasama-garments.pdf",
+    "pitchVideoUrl": "https://youtube.com/watch?v=kasama-textiles-coop",
+    "projectedFirstYearRevenue": 68000.0,
+    "businessModelCanvasJson": "{\"valueProposition\":\"High-quality local uniform stitching and corporate branding utilizing local cotton supply.\",\"keyPartners\":\"Zambian Cotton Association, Ministry of Education\",\"customerSegments\":\"Mining organizations, Local community schools\"}",
+    "sdgAlignments": [
+      "SDG 1 - No Poverty",
+      "SDG 8 - Decent Work",
+      "SDG 10 - Reduced Inequalities"
+    ],
+    "status": 3,
+    "aiScoringRecommendation": 91.2,
+    "submittedAt": "2026-04-18T09:15:00Z"
+  },
+  {
+    "id": "e2d3c4b5-7a6b-9f8e-0d1c-3b4a5f6e7d8c",
+    "startupName": "Zambezi Solar Hubs",
+    "legalForm": "Private Limited",
+    "registrationNumber": "L-908122-ZM",
+    "founderId": "7d3deb4d-5b7d-6bad-0bdd-4b0d7b3dcb6d",
+    "pitchDeckUrl": "https://data.gov.zm/storage/pitchdecks/zambezi-solar.pdf",
+    "pitchVideoUrl": "",
+    "projectedFirstYearRevenue": 115000.0,
+    "businessModelCanvasJson": "{\"valueProposition\":\"Pay-as-you-go solar battery containers for off-grid fishing camps along the Zambezi river.\",\"keyPartners\":\"Rural Electrification Authority, Solar Battery Suppliers\",\"customerSegments\":\"Off-grid rural businesses, fishing communities\"}",
+    "sdgAlignments": [
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 9 - Industry, Innovation and Infrastructure",
+      "SDG 13 - Climate Action"
+    ],
+    "status": 2,
+    "aiScoringRecommendation": 84.8,
+    "submittedAt": "2026-05-24T16:45:00Z"
+  }
+]

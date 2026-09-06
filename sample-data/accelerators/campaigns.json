@@ -1,0 +1,40 @@
+[
+  {
+    "id": "e3f4g5h6-1234-5678-90ab-cdef12345678",
+    "startupId": "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "startupName": "Mwamba Poultry Solutions",
+    "fundingGoal": 50000.0,
+    "capitalRaised": 12000.0,
+    "campaignType": "SMEBond",
+    "minimumTicketSize": 100.0,
+    "targetEquityOrInterestRate": 8.5,
+    "status": "Active",
+    "ledger": [
+      {
+        "investorId": "1b2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+        "amount": 5000.0
+      },
+      {
+        "investorId": "2c3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+        "amount": 7000.0
+      }
+    ]
+  },
+  {
+    "id": "f4g5h6i7-2345-6789-01bc-def234567890",
+    "startupId": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "startupName": "Kasama Garment Cooperatives",
+    "fundingGoal": 30000.0,
+    "capitalRaised": 30000.0,
+    "campaignType": "Debt",
+    "minimumTicketSize": 500.0,
+    "targetEquityOrInterestRate": 6.0,
+    "status": "Funded",
+    "ledger": [
+      {
+        "investorId": "3c4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+        "amount": 30000.0
+      }
+    ]
+  }
+]

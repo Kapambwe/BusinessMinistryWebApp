@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "startupId": "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "monthlyRevenue": 4200.0,
+    "operatingProfitMargin": 18.5,
+    "totalEmployees": 14,
+    "femaleEmployees": 8,
+    "youthEmployees": 10,
+    "ruralEmployees": 12,
+    "sdgContributionPercentage": 84.0,
+    "recordedDate": "2026-05-31T23:59:59Z"
+  },
+  {
+    "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+    "startupId": "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "monthlyRevenue": 3950.0,
+    "operatingProfitMargin": 17.2,
+    "totalEmployees": 12,
+    "femaleEmployees": 6,
+    "youthEmployees": 9,
+    "ruralEmployees": 10,
+    "sdgContributionPercentage": 80.0,
+    "recordedDate": "2026-04-30T23:59:59Z"
+  },
+  {
+    "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "startupId": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "monthlyRevenue": 11500.0,
+    "operatingProfitMargin": 22.4,
+    "totalEmployees": 38,
+    "femaleEmployees": 25,
+    "youthEmployees": 22,
+    "ruralEmployees": 30,
+    "sdgContributionPercentage": 91.5,
+    "recordedDate": "2026-05-31T23:59:59Z"
+  }
+]

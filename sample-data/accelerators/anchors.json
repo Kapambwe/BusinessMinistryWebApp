@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11112222-3333-4444-5555-666677778888",
+    "corporationName": "Shoprite Zambia",
+    "industrySector": "Retail",
+    "recurringMaterialNeeds": [
+      "0407.21.00",
+      "0207.11.00",
+      "0702.00.00"
+    ],
+    "targetSmeProcurementPercentage": 20.0,
+    "actualSmeProcurementValueYearToDate": 145000.0
+  },
+  {
+    "id": "22223333-4444-5555-6666-777788889999",
+    "corporationName": "Mopani Copper Mines",
+    "industrySector": "Mining",
+    "recurringMaterialNeeds": [
+      "6203.22.00",
+      "6116.10.00",
+      "6401.92.00"
+    ],
+    "targetSmeProcurementPercentage": 15.0,
+    "actualSmeProcurementValueYearToDate": 680000.0
+  }
+]

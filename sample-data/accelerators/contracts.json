@@ -1,0 +1,70 @@
+[
+  {
+    "id": "e1a2d3c4-9a8b-7c6d-5e4f-3a2b1c0d9e8f",
+    "buyerId": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "buyerName": "Zambia National Schools Food Programme",
+    "supplierId": "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "supplierName": "Mwamba Poultry Solutions",
+    "contractName": "School Lunch Protein Supply Agreement",
+    "totalContractValue": 35000.0,
+    "lifecycleStatus": "InExecution",
+    "effectiveDate": "2026-04-01T00:00:00Z",
+    "expirationDate": "2027-02-28T00:00:00Z",
+    "milestones": [
+      {
+        "id": "f1e2d3c4-1111-2222-3333-444455556666",
+        "milestoneName": "First Month Logistics Delivery",
+        "value": 3500.0,
+        "isDelivered": true,
+        "isApproved": true,
+        "targetDeliveryDate": "2026-05-01T17:00:00Z"
+      },
+      {
+        "id": "f2e3d4c5-2222-3333-4444-555566667777",
+        "milestoneName": "Second Month Logistics Delivery",
+        "value": 3500.0,
+        "isDelivered": true,
+        "isApproved": true,
+        "targetDeliveryDate": "2026-06-01T17:00:00Z"
+      },
+      {
+        "id": "f3e4d5c6-3333-4444-5555-666677778888",
+        "milestoneName": "Third Month Logistics Delivery",
+        "value": 3500.0,
+        "isDelivered": false,
+        "isApproved": false,
+        "targetDeliveryDate": "2026-07-01T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d2c3b4a5-8e7f-6d5c-4b3a-2a1b0c9d8e7f",
+    "buyerId": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "buyerName": "Konkola Copper Mines",
+    "supplierId": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "supplierName": "Kasama Garment Cooperatives",
+    "contractName": "Miners Personal Protective Uniforms",
+    "totalContractValue": 145000.0,
+    "lifecycleStatus": "InExecution",
+    "effectiveDate": "2026-05-15T00:00:00Z",
+    "expirationDate": "2026-11-15T00:00:00Z",
+    "milestones": [
+      {
+        "id": "a1b2c3d4-1111-2222-3333-444455556666",
+        "milestoneName": "Fabric Sourcing & Pre-production Samples Approved",
+        "value": 29000.0,
+        "isDelivered": true,
+        "isApproved": true,
+        "targetDeliveryDate": "2026-06-15T17:00:00Z"
+      },
+      {
+        "id": "b2c3d4e5-2222-3333-4444-555566667777",
+        "milestoneName": "First Batch - 4,000 Uniform Sets Delivered",
+        "value": 58000.0,
+        "isDelivered": false,
+        "isApproved": false,
+        "targetDeliveryDate": "2026-08-15T17:00:00Z"
+      }
+    ]
+  }
+]

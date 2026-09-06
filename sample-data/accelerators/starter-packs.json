@@ -1,0 +1,64 @@
+[
+  {
+    "id": "e1f2d3c4-9999-8888-7777-666655554444",
+    "targetIndustry": "Poultry",
+    "title": "Standard Layer Poultry Pack",
+    "description": "A complete blueprint pack to launch a layer-poultry farm of 1,000 birds including veterinary supplies and cage hardware systems.",
+    "equipmentBillOfMaterials": [
+      {
+        "skuCode": "CAG-1000",
+        "name": "A-Type Battery Cage System (1000 birds capacity)",
+        "quantity": 1
+      },
+      {
+        "skuCode": "DRK-50",
+        "name": "Automatic Nipple Drinker Set",
+        "quantity": 50
+      }
+    ],
+    "requiredLicenses": [
+      {
+        "licenseName": "Veterinary Sanitary Licence",
+        "agencyName": "Ministry of Agriculture"
+      },
+      {
+        "licenseName": "District Trading Permit",
+        "agencyName": "Local Municipal Council"
+      }
+    ],
+    "recommendedSupplierIds": [
+      "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f"
+    ],
+    "financialModelTemplateJson": "{\"fixedCapex\":12500,\"projectedMonthlyOpex\":1800,\"expectedEggYieldRatio\":0.82}",
+    "lastUpdated": "2026-05-10T12:00:00Z"
+  },
+  {
+    "id": "f2g3h4i5-0000-1111-2222-333344445555",
+    "targetIndustry": "Garment Manufacturing",
+    "title": "Industrial Micro-Stitch Unit",
+    "description": "Standardized tailoring workspace layout to support local school and corporate uniform contracts with heavy-duty sewing equipment.",
+    "equipmentBillOfMaterials": [
+      {
+        "skuCode": "SEW-IND-S",
+        "name": "Industrial Straight Stitch Sewing Machine",
+        "quantity": 4
+      },
+      {
+        "skuCode": "SEW-IND-O",
+        "name": "Industrial Overlock Sewing Machine",
+        "quantity": 1
+      }
+    ],
+    "requiredLicenses": [
+      {
+        "licenseName": "Manufacturing Assembly Clearance",
+        "agencyName": "Ministry of Commerce, Trade and Industry"
+      }
+    ],
+    "recommendedSupplierIds": [
+      "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c"
+    ],
+    "financialModelTemplateJson": "{\"fixedCapex\":8500,\"projectedMonthlyOpex\":1200,\"productionCapacityUnits\":1200}",
+    "lastUpdated": "2026-06-01T09:00:00Z"
+  }
+]

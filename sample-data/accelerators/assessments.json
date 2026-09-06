@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e1f2d3c4-6b7a-8f9e-0d1c-2b3a4f5e6d7c",
+    "applicationId": "f1e2d3c4-5b6a-7f8e-9d0c-1b2a3f4e5d6c",
+    "innovationScore": 80.0,
+    "marketPotentialScore": 90.0,
+    "teamStrengthScore": 85.0,
+    "financialViabilityScore": 75.0,
+    "socialImpactScore": 95.0,
+    "exportPotentialScore": 70.0,
+    "jobCreationScore": 90.0,
+    "sustainabilityScore": 85.0,
+    "techReadinessScore": 75.0,
+    "riskScore": 15.0,
+    "assessmentSummaryText": "Strong agribusiness proposition with established local pilot. Team displays high domain expertise. Capital expenditure risk is mitigated by quick local buyer matches.",
+    "evaluatedAt": "2026-03-15T10:00:00Z"
+  },
+  {
+    "id": "d2e3f4b5-7a8b-9f0e-1d2c-3b4a5f6e7d8c",
+    "applicationId": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "innovationScore": 70.0,
+    "marketPotentialScore": 85.0,
+    "teamStrengthScore": 92.0,
+    "financialViabilityScore": 80.0,
+    "socialImpactScore": 98.0,
+    "exportPotentialScore": 60.0,
+    "jobCreationScore": 95.0,
+    "sustainabilityScore": 90.0,
+    "techReadinessScore": 80.0,
+    "riskScore": 10.0,
+    "assessmentSummaryText": "Exceptional social and job creation potential. Organized as a structured cooperative. Capacity is ready for large mining uniform contracts, matching regional goals.",
+    "evaluatedAt": "2026-04-20T11:20:00Z"
+  },
+  {
+    "id": "c3d4e5f6-8a9b-0f1e-2d3c-4b5a6f7e8d9c",
+    "applicationId": "e2d3c4b5-7a6b-9f8e-0d1c-3b4a5f6e7d8c",
+    "innovationScore": 88.0,
+    "marketPotentialScore": 80.0,
+    "teamStrengthScore": 75.0,
+    "financialViabilityScore": 70.0,
+    "socialImpactScore": 90.0,
+    "exportPotentialScore": 75.0,
+    "jobCreationScore": 80.0,
+    "sustainabilityScore": 95.0,
+    "techReadinessScore": 85.0,
+    "riskScore": 25.0,
+    "assessmentSummaryText": "High technical readiness with hardware prototyping completed. Working capital is the main bottleneck. High SDG alignment with clean energy deployment targets.",
+    "evaluatedAt": "2026-05-26T15:30:00Z"
+  }
+]

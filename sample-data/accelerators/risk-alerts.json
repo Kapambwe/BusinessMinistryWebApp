@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c1a2b3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "startupId": "a5e2f3d4-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "startupName": "Mwamba Poultry Solutions",
+    "indicatorTrigger": "CashShortage",
+    "severityLevel": "Warning",
+    "analysisDetail": "Account ledger analysis projects a capital deficit of ZMW 15,000 for the upcoming layer-bird vaccine batch procurement due to delayed school food programme payment clearance.",
+    "requiredInterventions": [
+      "Deploy Working Capital Grant",
+      "Trigger Mentor Financial Intervention",
+      "Accelerate School Food Invoice Processing"
+    ],
+    "isActioned": false,
+    "triggeredAt": "2026-06-27T08:00:00Z"
+  },
+  {
+    "id": "d2b3c4d5-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "startupId": "c4d3e2b1-6a5b-8f7e-9d0c-2b3a4f5e6d7c",
+    "startupName": "Kasama Garment Cooperatives",
+    "indicatorTrigger": "MissedDelivery",
+    "severityLevel": "Critical",
+    "analysisDetail": "Supplier has fallen 10 days behind on fabric delivery schedules from East Africa, placing the Konkola Mine Uniform milestone at risk.",
+    "requiredInterventions": [
+      "Re-route cotton logistics via local consortium backup",
+      "Request temporary extension from Konkola Copper Mines procurement officer"
+    ],
+    "isActioned": false,
+    "triggeredAt": "2026-06-26T14:30:00Z"
+  }
+]
